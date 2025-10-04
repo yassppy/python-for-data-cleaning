@@ -1,0 +1,511 @@
+id_cliente,zona,tipo_cliente,consumo_m3,monto_factura,tipo_conexion,fecha_lectura,reclamos,estado_pago,perdida_agua
+1,Oeste,Residencial,28.26,88.97,Industrial,2024-01-10,0,Pendiente,8.65
+2,Centro,Comercial,12.49,30.94,Medidor comunal,2023-02-26,0,Pendiente,1.55
+3,Este,Residencial,34.24,100.27,Domiciliaria,2023-01-24,0,Pagado,0.83
+4,Centro,Comercial,23.15,59.5,,2024-05-27,0,Pagado,4.85
+5,Centro,Residencial,,36.79,,2023-07-18,0,Pagado,3.02
+6,Sur,Residencial,35.49,95.34,Domiciliaria,2023-02-10,0,Pagado,5.63
+7,Este,Comercial,17.96,56.25,Domiciliaria,2023-07-10,0,Pagado,8.04
+8,  centro ,Residencial,10.92,28.85,,2024-03-22,0,Pagado,1.37
+9,Este,Residencial,9.43,27.79,Domiciliaria,2023-05-13,0,Pagado,5.81
+10,Centro,Industrial,31.06,94.36,Industrial,2023-11-23,1,Pagado,5.06
+11,Oeste,Industrial,12.2,25.86,Medidor comunal,2023-07-19,0,Pendiente,1.44
+12,Este,Residencial,42.55,89.22,Medidor comunal,2024-03-11,1,PENDIENTE,6.24
+13,Centro,Residencial,4.18,11.1,Domiciliaria,2023-05-07,0,Pendiente,2.74
+14,Sur,Residencial,41.96,99.67,Domiciliaria,2023-08-30,0,Pagado,4.88
+15,Oeste,Residencial,27.11,80.67,Medidor comunal,2024-05-02,0,Pagado,0.82
+16,Sur,Residencial,24.03,73.53,Domiciliaria,2024-06-18,0,PENDIENTE,4.6
+17,Oeste,Residencial,19.55,44.86,Domiciliaria,2023-06-06,0,Pagado,3.06
+18,Centro,Comercial,28.99,61.8,Domiciliaria,2023-01-05,0,Pagado,8.22
+19,Norte,Comercial,24.62,71.22,Medidor comunal,2024-03-26,0,Pagado,0.57
+20,Oeste,Comercial,36.03,78.72,Domiciliaria,2023-01-20,0,Pendiente,4.19
+21,Sur,Residencial,26.14,77.16,Domiciliaria,2023-05-26,0,Pendiente,4.58
+22,Centro,Residencial,26.5,63.42,Medidor comunal,2024-07-03,0,Pagado,7.25
+23,Oeste,residencial ,21.36,58.41,Domiciliaria,2023-04-27,0,Pagado,5.74
+24,Norte,Residencial,24.43,47.24,Domiciliaria,2024-08-10,0,PENDIENTE,6.67
+25,Norte,Residencial,28.08,75.07,Domiciliaria,2024-06-11,0,Pagado,7.77
+26,Este,Comercial,7.9,19.22,Domiciliaria,2023-10-17,1,Pendiente,8.62
+27,Este,Residencial,11.52,30.2,Medidor comunal,2024-06-28,0,Pendiente,3.14
+28,Sur,Residencial,32.43,66.0,,2023-11-02,1,Pendiente,5.38
+29,Oeste,Residencial,26.71,75.63,,2024-06-15,0,Pagado,8.4
+30,Oeste,Comercial,23.16,69.66,Industrial,2023-11-14,0,Pagado,9.89
+31,  centro ,Residencial,25.18,52.96,Industrial,2023-08-09,0,Pagado,8.9
+32,Oeste,Residencial,28.48,55.08,Industrial,2023-10-27,0,Vencido,3.71
+33,Oeste,Residencial,19.6,35.93,,2024-04-24,1,pagado,1.95
+34,Norte,residencial ,,46.47,Domiciliaria,2023-07-10,0,Pagado,4.89
+35,Este,Residencial,26.96,71.44,No especificado,2023-12-29,0,Pagado,7.42
+36,Centro,Comercial,15.22,39.05,Medidor comunal,2023-08-06,0,pagado,4.93
+37,Este,Residencial,29.08,61.79,Domiciliaria,2024-03-21,0,Pendiente,4.83
+38,Centro,Residencial,7.97,18.71,Domiciliaria,2023-03-15,0,Vencido,8.38
+39,Norte,Residencial,35.29,92.89,,2023-04-12,0,Pagado,3.61
+40,Sur,Industrial,,74.19,Industrial,2024-05-12,0,Pagado,8.6
+41,Oeste,Residencial,27.56,87.72,Domiciliaria,2024-03-22,0,Pendiente,4.07
+42,Norte,Residencial,34.83,69.35,Domiciliaria,2023-08-02,0,Pendiente,3.28
+43,Oeste,Comercial,41.65,115.5,Domiciliaria,2024-04-22,0,Pagado,4.54
+44,Sur,Comercial,35.14,83.14,Medidor comunal,2024-01-22,0,Pagado,7.62
+45,Sur,Industrial,,15.81,Medidor comunal,2024-05-04,0,Pagado,1.26
+46,  centro ,Comercial,12.2,34.22,Domiciliaria,2023-08-09,0,Pagado,1.96
+47,Sur,Residencial,18.75,51.93,Medidor comunal,2023-05-15,0,Pagado,9.51
+48,Centro,Residencial,25.26,80.52,No especificado,2023-05-12,0,PENDIENTE,1.75
+49,Sur,Comercial,30.18,59.75,Domiciliaria,2023-02-25,0,Pagado,5.68
+50,Oeste,Residencial,17.74,34.52,Domiciliaria,2023-03-17,0,Vencido,5.79
+51,Oeste,Residencial,26.87,75.61,Domiciliaria,2024-03-26,0,Pagado,4.9
+52,Oeste,Comercial,17.45,45.54,Medidor comunal,2024-06-05,0,Pendiente,6.45
+53,  centro ,Residencial,18.88,,Domiciliaria,2023-05-23,0,PENDIENTE,2.3
+54,Centro,Residencial,10.93,20.89,Medidor comunal,2024-05-09,0,Pagado,5.53
+55,Este,Residencial,15.77,,Medidor comunal,2023-03-05,0,Pagado,3.72
+56,Norte,Residencial,,35.04,Domiciliaria,2023-11-28,0,Pagado,6.62
+57,Oeste,Residencial,15.24,,Industrial,2024-08-01,0,Pagado,1.41
+58,Sur,Residencial,35.54,80.06,Domiciliaria,2024-04-03,0,Pendiente,5.71
+59,Oeste,Residencial,15.51,32.84,Domiciliaria,2023-08-14,0,pagado,1.85
+60,Sur,Residencial,51.32,117.88,,2024-01-18,0,Pagado,2.79
+61,Sur,Residencial,29.93,56.78,Medidor comunal,2024-01-30,0,Pagado,2.19
+62,Oeste,Residencial,26.85,67.84,Domiciliaria,2024-06-19,0,Pagado,1.83
+63,Centro,residencial ,,31.11,Industrial,2023-10-16,0,Pendiente,8.26
+64,Sur,Residencial,32.0,93.46,Industrial,2023-03-11,0,Pagado,2.86
+65,Sur,Residencial,19.24,40.93,Domiciliaria,2023-12-22,0,Pagado,9.27
+66,Oeste,Comercial,26.22,67.02,No especificado,2024-08-13,0,Pendiente,9.7
+67,Sur,Residencial,,153.42,Domiciliaria,2023-05-03,0,Pendiente,5.71
+68,Sur,Industrial,24.04,65.18,Domiciliaria,2024-01-02,0,Pagado,1.43
+69,Oeste,Residencial,,92.91,Domiciliaria,2023-10-08,0,Pendiente,3.75
+70,Oeste,Industrial,17.97,40.51,Industrial,2024-01-03,0,Pagado,7.98
+71,Norte,Residencial,24.65,55.86,Medidor comunal,2023-06-23,0,Pagado,3.67
+72,Centro,Comercial,42.71,116.91,Domiciliaria,2023-02-11,0,Vencido,0.87
+73,Centro,Residencial,18.73,59.78,Domiciliaria,2024-01-20,0,Pendiente,5.57
+74,Sur,Industrial,43.12,117.57,Medidor comunal,2024-08-16,0,Pagado,8.45
+75,Centro,Residencial,32.08,82.8,,2023-09-01,0,Pagado,7.96
+76,Sur,Residencial,19.38,54.71,Industrial,2024-05-24,0,Pagado,1.75
+77,Norte,Industrial,31.32,76.77,Medidor comunal,2024-06-01,0,Pagado,6.73
+78,Oeste,Residencial,34.73,65.44,Domiciliaria,2023-12-04,0,Pagado,2.21
+79,  centro ,Residencial,31.22,80.77,No especificado,2024-05-09,0,Pagado,2.18
+80,Oeste,Residencial,,29.21,Domiciliaria,2023-03-06,1,Pagado,8.74
+81,Centro,Residencial,17.73,36.27,No especificado,2024-08-16,0,Pendiente,2.5
+82,Norte,Residencial,22.52,62.29,Medidor comunal,2023-02-09,1,Pendiente,2.63
+83,Centro,residencial ,24.26,50.49,Medidor comunal,2023-05-18,0,Pendiente,0.01
+84,Centro,Comercial,31.21,79.59,Domiciliaria,2023-01-25,0,Pagado,8.71
+85,Norte,Residencial,,51.83,Industrial,2023-06-29,0,PENDIENTE,7.93
+86,Norte,Residencial,11.65,,Domiciliaria,2023-03-06,0,Vencido,6.27
+87,Norte,Industrial,28.8,82.33,Domiciliaria,2024-04-02,0,Vencido,7.5
+88,Norte,Comercial,31.11,71.14,,2024-05-08,0,Vencido,1.52
+89,Oeste,Residencial,30.6,83.56,Domiciliaria,2024-07-10,0,pagado,4.58
+90,Este,Residencial,35.81,104.34,Domiciliaria,2023-04-17,0,Pagado,3.51
+91,Este,Residencial,,103.29,Medidor comunal,2024-02-03,0,Pagado,0.94
+92,Norte,Residencial,29.59,62.98,Industrial,2023-02-23,0,Pendiente,4.86
+93,Este,Residencial,24.3,57.32,,2023-01-19,1,Pendiente,9.21
+94,Este,Residencial,8.39,16.89,Medidor comunal,2023-03-13,0,Pendiente,0.4
+95,Norte,Residencial,29.3,93.45,,2023-02-15,1,Pagado,2.91
+96,Este,residencial ,27.08,83.89,Industrial,2024-05-17,0,Pagado,2.08
+97,Centro,Industrial,27.72,70.85,Medidor comunal,2023-01-10,0,Pagado,2.38
+98,Sur,Industrial,12.23,36.43,Domiciliaria,2023-08-14,0,pagado,9.08
+99,Sur,Residencial,14.19,35.89,Medidor comunal,2023-03-26,0,Pagado,4.68
+100,Norte,Residencial,35.53,94.97,Domiciliaria,2024-01-02,0,Pagado,4.66
+101,Oeste,Residencial,24.6,47.35,Domiciliaria,2023-06-24,0,Pagado,7.61
+102,Norte,Comercial,31.82,90.92,Medidor comunal,2024-05-17,0,Pagado,1.54
+103,Oeste,Residencial,25.28,50.02,Domiciliaria,2024-07-24,1,Vencido,4.87
+104,Sur,Residencial,25.3,74.8,,2024-03-18,0,Pendiente,4.3
+105,Norte,Comercial,34.38,99.52,Domiciliaria,2023-12-27,0,Pendiente,5.97
+106,Centro,Comercial,19.84,55.4,Medidor comunal,2023-09-28,0,Pagado,10.0
+107,Este,Comercial,25.96,48.04,Domiciliaria,2023-04-08,0,Pendiente,7.69
+108,Oeste,Residencial,20.38,45.33,Domiciliaria,2023-03-14,0,Pagado,3.98
+109,Este,Residencial,20.66,44.8,Medidor comunal,2023-05-22,0,Pendiente,8.28
+110,Este,Residencial,21.91,50.48,Medidor comunal,2024-05-15,0,Pagado,1.71
+111,Norte,Comercial,27.22,52.34,Domiciliaria,2023-09-29,0,Pagado,0.3
+112,Este,residencial ,20.21,62.89,Domiciliaria,2024-03-22,0,Pendiente,2.04
+113,Centro,Residencial,37.56,96.73,Domiciliaria,2023-05-27,0,pagado,3.4
+114,Este,Residencial,,35.76,Domiciliaria,2023-02-25,0,Pagado,5.11
+115,Norte,Residencial,23.13,54.49,Domiciliaria,2023-09-09,0,Vencido,6.15
+116,Centro,Comercial,20.6,,,2023-07-30,0,Pagado,9.11
+117,Sur,Industrial,39.47,104.23,Medidor comunal,2023-08-13,0,Pagado,5.1
+118,Este,Residencial,26.97,68.02,Medidor comunal,2023-01-07,0,Pagado,5.01
+119,Norte,Residencial,,109.04,Domiciliaria,2024-04-16,0,Pagado,0.5
+120,Sur,Residencial,10.14,25.31,Medidor comunal,2023-06-19,0,Pagado,0.35
+121,Sur,Industrial,27.67,88.24,Domiciliaria,2024-05-20,0,Pagado,5.51
+122,Oeste,Comercial,33.9,101.43,No especificado,2024-02-20,0,Pagado,4.38
+123,Centro,Comercial,25.82,54.01,Medidor comunal,2023-05-24,0,pagado,8.39
+124,Este,residencial ,35.65,110.62,Domiciliaria,2023-10-07,0,Pagado,1.61
+125,Norte,Residencial,19.83,,Medidor comunal,2023-03-18,0,Pendiente,0.25
+126,Oeste,Residencial,39.09,115.1,Domiciliaria,2023-11-15,0,Pagado,4.49
+127,Centro,Residencial,47.99,111.95,Medidor comunal,2023-06-20,0,Pendiente,2.37
+128,Oeste,Comercial,21.37,64.73,Domiciliaria,2023-04-29,0,Pagado,0.5
+129,Centro,Comercial,20.54,61.93,Domiciliaria,2023-02-07,0,Pagado,7.25
+130,Centro,Industrial,39.53,115.76,Industrial,2024-03-31,0,Pagado,1.12
+131,  centro ,Industrial,40.8,118.57,Domiciliaria,2023-07-21,0,Pagado,6.08
+132,Centro,Residencial,19.77,,Medidor comunal,2023-12-07,0,Pagado,2.81
+133,Oeste,Comercial,20.8,39.8,Domiciliaria,2023-05-17,0,Pendiente,1.73
+134,  centro ,Comercial,22.18,52.44,Medidor comunal,2024-02-12,0,Vencido,3.8
+135,Este,Comercial,11.56,23.62,,2024-06-28,0,Vencido,8.01
+136,Este,residencial ,,43.84,Domiciliaria,2023-04-17,0,Pendiente,3.92
+137,Oeste,Residencial,14.96,34.18,Domiciliaria,2024-04-26,0,Pagado,7.51
+138,Sur,Residencial,17.32,54.83,,2024-05-23,0,Pagado,1.25
+139,Sur,Industrial,,66.49,Domiciliaria,2024-03-20,0,Pagado,7.73
+140,Centro,Residencial,27.34,80.69,Domiciliaria,2023-07-11,0,Pagado,2.37
+141,Norte,Residencial,40.51,80.43,,2024-01-11,0,Pagado,6.77
+142,  centro ,Residencial,15.02,45.16,Industrial,2023-06-09,0,Pagado,5.66
+143,Oeste,residencial ,,107.72,Industrial,2024-02-23,0,Pagado,9.29
+144,Oeste,Residencial,22.86,56.74,Medidor comunal,2023-06-30,0,Pagado,3.87
+145,Oeste,Residencial,24.51,64.92,Medidor comunal,2024-06-23,0,Vencido,0.66
+146,Oeste,Residencial,31.75,91.15,Medidor comunal,2024-08-06,0,Pendiente,0.19
+147,Oeste,Residencial,13.77,28.16,Domiciliaria,2024-04-16,0,Pagado,8.27
+148,Este,Comercial,28.82,72.15,Industrial,2024-07-09,0,pagado,5.25
+149,Sur,Residencial,26.66,62.87,Medidor comunal,2023-12-31,0,PENDIENTE,7.75
+150,Oeste,Comercial,29.92,59.99,Domiciliaria,2023-06-14,0,Pagado,2.34
+151,Norte,Residencial,27.89,64.55,Domiciliaria,2023-05-10,1,Pagado,3.45
+152,Norte,Residencial,49.55,93.92,Domiciliaria,2024-04-26,0,Pagado,0.3
+153,Norte,Comercial,18.62,34.19,,2023-08-01,0,pagado,9.61
+154,Norte,Residencial,19.69,39.17,Industrial,2023-06-17,0,Vencido,6.68
+155,Este,Residencial,18.77,59.09,Domiciliaria,2024-02-10,0,Pagado,9.33
+156,Norte,Residencial,19.45,49.97,,2024-05-13,0,Pagado,2.65
+157,Oeste,Comercial,,58.72,No especificado,2023-07-21,0,Pagado,6.11
+158,Centro,Residencial,36.89,88.74,Domiciliaria,2023-12-08,1,Pagado,6.78
+159,Norte,Residencial,39.21,87.69,Domiciliaria,2023-11-05,0,Pagado,3.18
+160,Este,Residencial,19.29,48.39,,2023-04-29,0,Vencido,8.48
+161,Este,Residencial,16.68,40.29,Medidor comunal,2024-08-15,0,Pendiente,9.47
+162,  centro ,Residencial,29.71,57.87,Industrial,2024-08-20,0,Vencido,8.85
+163,Centro,Residencial,19.48,52.54,Domiciliaria,2023-11-27,0,Vencido,7.39
+164,Norte,Residencial,31.33,65.87,Industrial,2023-12-17,0,Pendiente,2.77
+165,Este,Residencial,27.03,72.1,,2023-08-14,0,Pagado,2.82
+166,Sur,Residencial,9.84,26.67,Industrial,2024-03-10,0,Pendiente,9.63
+167,Oeste,Comercial,40.48,81.48,Medidor comunal,2023-01-20,0,Pagado,0.1
+168,Este,Residencial,,81.02,Medidor comunal,2023-05-11,0,Pendiente,7.16
+169,Norte,Residencial,18.87,54.59,Domiciliaria,2024-06-21,0,Pagado,7.06
+170,Oeste,Comercial,21.12,51.61,No especificado,2023-02-02,0,Pendiente,6.23
+171,Norte,Residencial,27.86,52.42,Medidor comunal,2023-06-15,0,Pagado,9.9
+172,Norte,Residencial,28.34,90.48,Domiciliaria,2023-10-15,0,Pagado,3.12
+173,Sur,Comercial,31.59,59.42,Medidor comunal,2024-02-07,0,Pagado,3.4
+174,Oeste,Comercial,45.1,125.06,Domiciliaria,2023-11-17,1,Pagado,0.79
+175,Oeste,residencial ,23.23,73.81,Industrial,2024-08-22,0,Pendiente,4.43
+176,Sur,Comercial,17.02,,Domiciliaria,2024-05-02,0,Pendiente,2.61
+177,Este,Residencial,11.21,22.41,Medidor comunal,2023-08-06,0,Pagado,3.43
+178,Norte,Residencial,17.69,34.85,Domiciliaria,2024-02-16,0,Pagado,8.35
+179,Centro,Residencial,24.67,54.88,Domiciliaria,2024-06-07,0,Pagado,9.35
+180,Norte,Industrial,42.95,83.39,Domiciliaria,2024-06-15,0,Pagado,1.86
+181,Norte,Residencial,19.82,54.88,Domiciliaria,2023-12-27,0,Pagado,3.73
+182,Este,Residencial,27.24,51.41,Domiciliaria,2024-01-31,0,Vencido,9.29
+183,Norte,Residencial,24.84,62.43,Domiciliaria,2024-02-23,0,Pagado,0.62
+184,Sur,Residencial,,117.85,Domiciliaria,2024-06-25,0,Pagado,0.92
+185,Sur,Residencial,50.27,147.77,Domiciliaria,2023-02-13,0,Pagado,1.63
+186,Oeste,Residencial,19.69,52.4,Domiciliaria,2023-11-04,0,Pagado,5.95
+187,Centro,Residencial,20.11,44.82,Medidor comunal,2023-04-11,0,Pagado,1.5
+188,Norte,Residencial,35.44,94.75,Domiciliaria,2023-09-07,0,Pendiente,9.68
+189,Norte,Residencial,31.82,80.75,Industrial,2023-11-25,0,Pagado,4.47
+190,Este,residencial ,43.47,104.18,,2023-09-02,1,Pagado,5.02
+191,  centro ,Residencial,30.84,61.16,Medidor comunal,2023-05-01,1,Pagado,2.47
+192,Centro,Residencial,21.41,65.11,Domiciliaria,2023-11-18,0,Pagado,4.71
+193,Oeste,Comercial,30.91,75.1,Industrial,2023-08-23,1,Pagado,6.62
+194,Sur,Residencial,36.09,74.8,Domiciliaria,2023-02-08,0,PENDIENTE,7.51
+195,Oeste,Residencial,33.2,76.85,Domiciliaria,2023-06-14,1,Pendiente,7.54
+196,Este,Residencial,,71.56,Domiciliaria,2023-11-13,0,Pagado,5.78
+197,Este,Residencial,35.67,105.53,Medidor comunal,2023-12-08,0,Pagado,9.04
+198,Norte,Residencial,36.69,,Domiciliaria,2024-07-13,0,Pagado,8.17
+199,Centro,Residencial,38.82,111.69,Domiciliaria,2023-10-02,0,Pagado,7.57
+200,Oeste,Residencial,31.49,57.17,No especificado,2024-03-30,0,Pendiente,0.56
+201,Sur,Residencial,23.33,,Industrial,2024-05-20,0,Pendiente,0.07
+202,Este,Residencial,26.47,65.48,Domiciliaria,2023-12-22,0,Pagado,2.12
+203,Norte,Residencial,37.07,67.72,Domiciliaria,2024-05-30,0,Pagado,6.64
+204,Norte,Residencial,16.83,36.42,Medidor comunal,2023-10-09,0,Pagado,4.11
+205,Oeste,Residencial,,82.18,Domiciliaria,2023-11-09,0,Vencido,4.02
+206,Este,Residencial,21.07,41.97,Domiciliaria,2024-03-31,0,Pendiente,8.85
+207,Centro,Residencial,25.29,64.48,Domiciliaria,2024-05-25,0,Pagado,8.96
+208,Este,Residencial,37.78,79.39,Industrial,2023-02-21,0,Pagado,9.09
+209,Oeste,Residencial,26.91,48.89,Medidor comunal,2023-01-04,0,Pendiente,3.14
+210,Oeste,Comercial,,54.43,Medidor comunal,2023-11-04,0,Pagado,6.91
+211,Este,Residencial,11.4,36.09,Industrial,2024-04-19,1,Pagado,2.72
+212,Oeste,Residencial,32.46,94.85,Domiciliaria,2023-07-13,0,Pagado,1.91
+213,Este,Comercial,31.45,98.86,,2024-07-20,0,Pendiente,1.85
+214,Sur,Comercial,,115.78,Domiciliaria,2024-08-22,0,Pagado,3.42
+215,Este,Residencial,21.92,,Domiciliaria,2023-04-12,0,Pagado,4.3
+216,Este,Residencial,27.19,69.8,Domiciliaria,2023-03-15,0,Vencido,8.31
+217,Oeste,Comercial,27.49,66.97,Medidor comunal,2023-10-19,0,Pagado,1.2
+218,Oeste,Residencial,40.77,121.58,Medidor comunal,2023-08-19,0,Pagado,7.35
+219,Norte,Residencial,24.05,46.59,Industrial,2023-05-04,0,Pagado,5.31
+220,Norte,Residencial,27.79,69.02,Domiciliaria,2024-06-04,0,Pagado,2.88
+221,Sur,Residencial,31.08,62.47,Medidor comunal,2023-09-23,0,Pendiente,4.93
+222,Norte,Residencial,,60.58,,2024-02-18,1,Pagado,3.0
+223,Este,Residencial,20.54,,Domiciliaria,2024-03-12,0,Pagado,5.96
+224,  centro ,Residencial,26.94,66.45,Medidor comunal,2023-01-07,0,Pagado,4.34
+225,Norte,Residencial,35.74,83.14,Domiciliaria,2024-06-05,0,Pendiente,1.64
+226,Norte,Residencial,14.73,34.65,Domiciliaria,2023-10-26,0,Pendiente,1.17
+227,Sur,Residencial,26.33,64.33,Domiciliaria,2023-05-26,0,Pagado,5.47
+228,Sur,Residencial,18.0,52.18,Domiciliaria,2024-02-24,0,Pagado,9.02
+229,Este,Residencial,36.95,112.66,Domiciliaria,2024-05-29,0,Pendiente,3.44
+230,Oeste,Comercial,9.77,30.65,Medidor comunal,2023-12-16,0,Pagado,7.33
+231,Sur,Residencial,19.41,56.32,No especificado,2024-04-18,0,Vencido,6.59
+232,Norte,Residencial,28.77,64.49,Medidor comunal,2024-07-12,0,Vencido,9.32
+233,Oeste,Residencial,,112.36,Medidor comunal,2023-12-27,0,Vencido,8.21
+234,Oeste,Residencial,24.34,58.72,Domiciliaria,2023-12-20,0,Pagado,5.67
+235,Norte,Residencial,,41.94,Medidor comunal,2024-07-07,0,Pagado,6.57
+236,Sur,Residencial,,130.43,,2023-03-23,0,Pendiente,8.98
+237,Norte,Residencial,10.52,19.5,Domiciliaria,2023-07-16,0,Pagado,4.0
+238,Oeste,Residencial,3.01,9.22,Domiciliaria,2023-12-14,0,Pagado,3.27
+239,Centro,Residencial,29.4,71.91,Domiciliaria,2023-09-04,1,Vencido,0.11
+240,Centro,residencial ,19.98,53.79,Domiciliaria,2023-06-11,0,Vencido,8.27
+241,Este,Residencial,14.79,40.27,Domiciliaria,2023-04-27,0,Pagado,8.01
+242,Norte,Residencial,32.08,,Domiciliaria,2023-04-02,0,Pagado,1.04
+243,Norte,Residencial,27.44,,,2023-05-31,1,Pagado,5.77
+244,Este,Comercial,,51.49,,2023-10-20,0,Vencido,4.64
+245,  centro ,Residencial,12.2,23.1,Domiciliaria,2023-10-14,1,pagado,1.19
+246,Este,Residencial,33.72,85.17,Domiciliaria,2024-01-13,1,Pagado,9.81
+247,Oeste,Comercial,31.5,63.32,Medidor comunal,2024-07-09,0,Pagado,2.15
+248,Norte,Residencial,24.01,,Domiciliaria,2024-02-21,1,Vencido,0.67
+249,  centro ,Residencial,43.47,109.42,Domiciliaria,2024-05-02,0,Pagado,5.95
+250,Este,Residencial,14.3,39.36,Domiciliaria,2023-10-31,0,Pagado,7.39
+251,Norte,Residencial,9.74,,Domiciliaria,2024-03-26,0,PENDIENTE,0.32
+252,Oeste,Residencial,18.08,,Domiciliaria,2023-01-05,0,Pagado,6.59
+253,Oeste,Residencial,24.54,68.78,Domiciliaria,2023-10-08,0,Pendiente,5.32
+254,Este,Residencial,27.43,,,2024-05-06,0,Pagado,1.03
+255,Norte,Residencial,22.59,,,2023-09-28,1,Pagado,1.73
+256,Este,Residencial,28.52,51.82,Domiciliaria,2024-01-04,0,Vencido,5.68
+257,Norte,Residencial,12.48,39.18,Medidor comunal,2023-06-23,0,Pagado,2.96
+258,Centro,Residencial,39.44,111.71,Domiciliaria,2023-08-02,1,Vencid0,9.38
+259,Sur,Residencial,24.18,55.48,Domiciliaria,2023-07-13,1,Pagado,8.19
+260,Sur,Industrial,36.17,80.12,Domiciliaria,2023-11-24,1,Pagado,9.84
+261,Sur,Residencial,28.43,65.09,Industrial,2024-01-26,0,Pagado,2.6
+262,Este,Residencial,,85.3,Domiciliaria,2023-05-29,1,Pagado,9.7
+263,Centro,Residencial,30.7,,Domiciliaria,2024-07-19,0,Pagado,4.31
+264,  centro ,Residencial,,60.71,Medidor comunal,2023-11-19,0,Pagado,3.48
+265,Oeste,residencial ,31.43,64.24,Domiciliaria,2024-08-03,0,Pagado,0.5
+266,Norte,Residencial,38.29,74.2,Domiciliaria,2024-05-29,0,Pagado,0.53
+267,Oeste,Residencial,26.97,73.48,Domiciliaria,2024-04-11,0,Pendiente,6.92
+268,Norte,Residencial,32.09,92.1,Industrial,2023-08-02,0,Pendiente,4.58
+269,Centro,Residencial,24.1,52.32,Domiciliaria,2023-04-22,0,Pendiente,2.27
+270,Oeste,Comercial,39.4,72.08,Medidor comunal,2023-06-07,0,Pagado,6.14
+271,Este,Residencial,18.24,34.93,No especificado,2023-10-27,0,Pagado,2.53
+272,Norte,residencial ,,135.7,Domiciliaria,2024-08-05,0,Pendiente,5.78
+273,Norte,Residencial,24.6,54.46,Domiciliaria,2024-06-04,0,Pagado,3.59
+274,Oeste,Industrial,10.69,30.75,Domiciliaria,2024-05-02,0,Pagado,8.24
+275,Este,Residencial,26.28,70.29,Domiciliaria,2023-02-22,0,Vencido,8.21
+276,Este,Residencial,18.19,42.47,Domiciliaria,2023-01-29,0,Pendiente,4.77
+277,Centro,Industrial,33.41,69.76,Industrial,2023-11-16,1,Pagado,3.51
+278,Este,Comercial,18.47,36.38,Medidor comunal,2023-05-10,0,Pagado,3.63
+279,Este,Comercial,,54.66,Medidor comunal,2023-02-04,0,Pendiente,8.06
+280,Este,Residencial,6.1,17.6,Domiciliaria,2024-08-07,0,Pagado,3.28
+281,Sur,Residencial,20.48,,Medidor comunal,2024-08-12,0,Pendiente,2.09
+282,Centro,Residencial,0.76,1.93,No especificado,2023-04-17,0,Pendiente,0.85
+283,Norte,Comercial,9.16,17.03,Medidor comunal,2024-08-14,0,Vencido,4.67
+284,Oeste,Residencial,32.6,102.88,Domiciliaria,2023-10-08,0,Pagado,4.82
+285,Norte,Residencial,32.86,95.89,Medidor comunal,2023-08-02,0,Pagado,8.41
+286,Centro,Residencial,29.25,64.64,Domiciliaria,2023-04-06,0,Pendiente,2.21
+287,Oeste,Comercial,15.33,48.63,Domiciliaria,2024-07-02,0,Pendiente,3.81
+288,Centro,Residencial,24.52,64.8,Domiciliaria,2024-07-13,0,Pendiente,8.08
+289,Este,Residencial,24.96,65.28,,2024-07-16,0,Pagado,8.24
+290,Oeste,Residencial,13.42,,Medidor comunal,2023-07-01,0,Pagado,3.85
+291,Este,Residencial,40.03,117.55,Domiciliaria,2024-08-05,0,Vencido,4.59
+292,Norte,Residencial,33.77,91.82,Domiciliaria,2023-11-16,1,Pendiente,3.03
+293,Norte,Residencial,22.79,45.11,Domiciliaria,2023-05-03,1,pagado,9.33
+294,Oeste,Residencial,25.27,57.45,Domiciliaria,2024-05-16,0,Pendiente,1.19
+295,  centro ,Residencial,27.08,83.93,Domiciliaria,2023-10-29,0,Pagado,9.34
+296,Centro,Residencial,4.58,9.68,Domiciliaria,2024-02-11,0,Pendiente,6.84
+297,Centro,Residencial,22.53,52.29,Medidor comunal,2023-12-21,0,Vencido,5.32
+298,Este,Residencial,18.18,,Domiciliaria,2024-04-16,0,Pagado,0.33
+299,Oeste,Residencial,14.98,36.18,Domiciliaria,2024-08-14,1,Pendiente,4.76
+300,Norte,Residencial,22.19,58.98,,2024-01-26,1,Pagado,4.08
+301,Centro,Residencial,42.98,134.11,Industrial,2023-03-23,0,Pagado,1.61
+302,  centro ,Residencial,31.41,67.12,Medidor comunal,2023-10-08,0,Pendiente,6.56
+303,Norte,Residencial,19.29,38.0,Medidor comunal,2024-03-03,0,Pagado,9.71
+304,Centro,Industrial,30.73,,,2023-08-12,0,Pagado,5.62
+305,  centro ,Residencial,38.99,118.6,Domiciliaria,2024-01-28,0,Pagado,7.15
+306,Oeste,Comercial,34.25,92.62,Domiciliaria,2024-03-20,0,Pagado,0.68
+307,Norte,Residencial,25.6,56.33,,2024-05-03,0,Pagado,4.18
+308,Oeste,Residencial,18.53,54.52,Industrial,2023-10-03,0,Pagado,1.16
+309,Centro,Comercial,31.98,96.13,Medidor comunal,2024-07-27,0,pagado,6.13
+310,Centro,Residencial,28.93,86.36,,2024-02-24,1,Pagado,9.38
+311,Norte,Residencial,33.95,104.79,Medidor comunal,2023-10-06,0,Pagado,6.62
+312,Este,Residencial,31.35,,Domiciliaria,2024-06-28,0,Pagado,0.77
+313,Sur,Residencial,35.5,101.43,Industrial,2023-01-11,0,Pendiente,3.55
+314,Norte,Comercial,19.65,48.04,Domiciliaria,2023-10-09,0,Pagado,5.51
+315,Sur,Comercial,38.17,113.7,,2024-06-06,0,Vencido,4.03
+316,Sur,Industrial,26.98,76.08,Domiciliaria,2024-08-12,0,Pendiente,8.34
+317,Este,Residencial,45.75,132.08,Domiciliaria,2024-03-02,0,Pendiente,8.15
+318,Sur,Residencial,18.11,49.23,Domiciliaria,2023-04-14,0,Pagado,6.12
+319,Sur,Comercial,42.36,86.77,Domiciliaria,2023-09-29,1,Pendiente,3.73
+320,Este,Residencial,26.98,69.15,Domiciliaria,2024-02-01,0,Pagado,2.55
+321,Sur,Residencial,18.49,58.77,Domiciliaria,2023-07-07,0,pagado,1.06
+322,Sur,Residencial,20.16,62.74,Domiciliaria,2023-05-05,0,Pendiente,3.55
+323,Sur,Residencial,21.8,40.56,Domiciliaria,2024-03-12,0,Pagado,4.13
+324,Norte,Comercial,29.24,59.38,Domiciliaria,2024-06-17,0,Pagado,6.76
+325,Norte,Residencial,,59.99,Domiciliaria,2023-05-27,0,Pagado,6.58
+326,Norte,Comercial,19.26,,Medidor comunal,2023-11-10,0,Pendiente,0.7
+327,Este,Residencial,24.76,72.92,Medidor comunal,2023-10-01,0,Pagado,3.95
+328,Centro,Residencial,46.42,97.43,Medidor comunal,2023-04-07,1,Pagado,1.82
+329,Sur,Residencial,42.28,,Medidor comunal,2024-06-24,0,Pagado,1.57
+330,Sur,Comercial,29.36,87.4,Domiciliaria,2023-01-12,0,Pendiente,8.27
+331,Este,Residencial,25.38,,Medidor comunal,2023-07-29,0,Vencido,0.42
+332,Sur,Residencial,26.2,67.05,Domiciliaria,2023-04-20,0,Pendiente,4.19
+333,Norte,residencial ,31.14,81.79,Domiciliaria,2023-09-18,0,Pendiente,1.68
+334,Centro,Comercial,14.77,37.1,Medidor comunal,2024-05-16,0,Pagado,8.79
+335,Oeste,Residencial,22.43,,Domiciliaria,2023-11-21,0,Pagado,5.57
+336,Sur,Comercial,8.31,21.53,Medidor comunal,2024-07-29,0,Pendiente,2.31
+337,  centro ,Residencial,28.99,80.14,,2023-08-20,0,Pagado,5.02
+338,Oeste,Residencial,,95.12,Industrial,2023-03-13,0,Pagado,7.31
+339,Centro,Residencial,20.17,54.27,,2024-04-18,0,Pagado,9.58
+340,Oeste,Residencial,40.74,116.74,Domiciliaria,2024-02-11,0,Pagado,2.2
+341,Norte,Residencial,12.74,25.79,Domiciliaria,2023-06-20,0,Pagado,8.86
+342,Oeste,Residencial,10.36,,Domiciliaria,2023-11-14,1,Vencido,9.34
+343,Este,Residencial,27.24,49.39,Domiciliaria,2023-04-01,0,Pagado,9.16
+344,Oeste,residencial ,,76.1,Medidor comunal,2023-06-10,0,Pagado,6.35
+345,Sur,residencial ,41.84,117.87,Medidor comunal,2023-10-21,0,Pagado,6.3
+346,Sur,Residencial,20.41,65.08,Medidor comunal,2023-04-25,0,Pendiente,4.03
+347,Este,Comercial,35.79,69.39,Domiciliaria,2024-04-15,0,Pagado,7.52
+348,Norte,Residencial,24.61,58.13,Domiciliaria,2024-08-14,0,Vencido,5.31
+349,Sur,Residencial,23.27,67.95,,2023-07-12,0,Vencido,6.77
+350,Centro,Comercial,33.84,,Domiciliaria,2023-03-18,0,Pagado,4.28
+351,Sur,Residencial,31.52,81.23,Industrial,2023-05-01,0,pagado,7.31
+352,Sur,Residencial,9.24,26.12,Domiciliaria,2024-03-19,0,Vencid0,8.24
+353,Norte,Residencial,39.77,105.88,Domiciliaria,2024-03-01,0,Vencido,1.46
+354,  centro ,Comercial,38.8,80.05,Domiciliaria,2023-07-20,0,Vencido,8.33
+355,Sur,Residencial,18.74,43.06,Medidor comunal,2023-08-17,0,Pagado,5.4
+356,  centro ,Residencial,28.96,83.91,Medidor comunal,2024-03-02,0,Pagado,8.45
+357,Oeste,Comercial,29.94,77.12,Domiciliaria,2024-04-01,0,Pagado,4.31
+358,Centro,Comercial,27.61,49.9,,2024-03-15,0,Pagado,3.79
+359,Norte,Residencial,19.5,55.88,Domiciliaria,2024-01-08,0,Vencid0,9.15
+360,Centro,Residencial,18.28,33.81,Domiciliaria,2024-05-23,0,Pagado,2.51
+361,Oeste,Residencial,24.74,70.36,,2023-03-26,0,Pendiente,8.44
+362,Oeste,Residencial,36.73,76.53,Medidor comunal,2023-12-13,0,Vencido,4.84
+363,Oeste,Residencial,30.44,95.62,Domiciliaria,2023-04-26,1,Vencido,5.14
+364,Centro,Residencial,21.29,49.29,Domiciliaria,2023-02-20,0,Vencid0,3.08
+365,Oeste,Comercial,32.72,73.87,No especificado,2024-08-11,0,Pagado,5.73
+366,Centro,Comercial,3.49,7.01,Domiciliaria,2023-12-03,0,Pagado,3.25
+367,Oeste,Residencial,36.49,81.29,Medidor comunal,2023-10-17,0,Pagado,0.39
+368,Este,Comercial,7.6,23.01,Domiciliaria,2023-05-23,0,Pagado,2.72
+369,Oeste,Residencial,21.38,68.31,Domiciliaria,2024-01-09,0,Pagado,0.06
+370,Centro,Comercial,13.8,31.96,Domiciliaria,2023-05-09,1,Pagado,9.78
+371,Sur,Residencial,12.05,,Domiciliaria,2023-10-17,0,Pendiente,9.66
+372,Oeste,Residencial,36.61,102.91,No especificado,2023-03-13,0,Pagado,3.95
+373,Sur,Comercial,,,Domiciliaria,2023-06-16,0,Pagado,7.28
+374,Este,Residencial,28.47,74.88,Domiciliaria,2023-12-04,0,Pendiente,3.46
+375,Norte,Residencial,24.53,57.6,Domiciliaria,2024-01-04,0,Pagado,6.71
+376,Este,Residencial,29.77,70.78,Domiciliaria,2023-01-25,0,Pagado,8.05
+377,Oeste,Residencial,25.77,71.48,Domiciliaria,2023-07-11,0,Pendiente,9.47
+378,Sur,Residencial,,21.96,Domiciliaria,2024-07-13,0,Pendiente,4.0
+379,Sur,Residencial,,93.25,Medidor comunal,2023-05-06,0,Pendiente,7.83
+380,Centro,Residencial,20.06,,Domiciliaria,2024-03-25,0,Pagado,2.66
+381,Sur,Residencial,9.43,27.46,Domiciliaria,2024-08-01,0,Vencido,9.9
+382,Centro,Residencial,20.72,39.99,Industrial,2023-03-14,1,Pendiente,0.26
+383,Norte,Residencial,40.01,,Domiciliaria,2023-08-13,0,Pagado,6.04
+384,  centro ,Comercial,33.5,82.86,No especificado,2024-03-21,1,Pendiente,6.6
+385,Centro,Residencial,21.51,58.06,Domiciliaria,2024-06-20,0,Vencido,6.88
+386,Norte,Residencial,21.51,40.67,Industrial,2023-03-26,0,Pagado,1.2
+387,Sur,residencial ,21.78,56.89,Medidor comunal,2023-02-02,0,Pagado,9.39
+388,Sur,Comercial,45.77,118.36,,2023-07-10,0,Vencid0,1.81
+389,Norte,Residencial,28.82,74.5,No especificado,2023-05-31,0,Pendiente,6.23
+390,Sur,Residencial,29.3,77.5,Domiciliaria,2024-04-25,0,Pagado,2.23
+391,Norte,Residencial,35.3,96.97,No especificado,2023-07-08,0,Pendiente,3.07
+392,Centro,Residencial,27.39,80.17,Domiciliaria,2023-11-27,0,Pagado,5.46
+393,Centro,Residencial,22.41,48.8,Domiciliaria,2024-06-20,0,Pagado,4.17
+394,Norte,Comercial,23.04,68.08,Domiciliaria,2023-05-10,0,Pagado,1.6
+395,Centro,Comercial,24.28,60.64,Domiciliaria,2024-06-30,1,pagado,1.71
+396,Centro,Residencial,24.63,46.99,Domiciliaria,2023-04-15,0,pagado,4.18
+397,Centro,Residencial,32.28,60.75,Domiciliaria,2023-06-29,0,Pagado,7.57
+398,Este,Comercial,,57.88,Domiciliaria,2023-06-03,0,Pagado,8.98
+399,Oeste,Residencial,32.33,,Medidor comunal,2024-08-02,0,Pagado,0.84
+400,Sur,Residencial,,67.51,Medidor comunal,2024-01-25,0,Vencid0,3.93
+401,Este,Residencial,25.79,74.9,Domiciliaria,2023-12-10,0,Vencid0,1.0
+402,Centro,Residencial,5.02,12.67,Domiciliaria,2023-12-09,0,Pendiente,0.17
+403,Norte,residencial ,34.16,82.54,Domiciliaria,2023-09-04,0,Vencido,6.62
+404,Centro,Residencial,28.46,57.1,Domiciliaria,2024-01-08,0,Pendiente,6.02
+405,Oeste,Comercial,34.98,,Domiciliaria,2024-04-23,0,Pagado,1.63
+406,Centro,Comercial,,,Domiciliaria,2023-08-14,1,Pagado,2.34
+407,Norte,Residencial,45.88,,Domiciliaria,2023-05-28,0,Pagado,0.24
+408,Oeste,Residencial,23.6,49.77,No especificado,2023-10-28,0,Pendiente,8.35
+409,Centro,Industrial,36.08,95.16,,2024-08-02,0,Pendiente,9.75
+410,Oeste,Comercial,14.6,41.32,Domiciliaria,2024-06-28,0,Pagado,1.35
+411,Sur,Residencial,31.13,,Domiciliaria,2024-07-30,1,pagado,2.31
+412,Sur,Comercial,14.47,44.95,Domiciliaria,2023-10-05,0,Pagado,8.68
+413,Centro,Comercial,18.76,50.64,Domiciliaria,2023-11-23,0,Pagado,9.26
+414,Oeste,Residencial,44.14,105.48,Medidor comunal,2023-03-10,0,Pendiente,4.2
+415,Norte,Residencial,23.09,62.13,Domiciliaria,2023-02-22,0,Pendiente,0.51
+416,Centro,Residencial,27.17,78.79,Domiciliaria,2023-02-14,0,Pendiente,0.39
+417,Sur,Residencial,,66.24,No especificado,2023-11-12,0,Pagado,5.74
+418,Sur,Residencial,29.96,,Industrial,2023-07-31,0,Pagado,3.93
+419,Centro,Comercial,26.5,78.86,Medidor comunal,2023-04-02,0,Pendiente,0.29
+420,Oeste,Residencial,28.65,66.97,Domiciliaria,2023-02-26,1,Pagado,5.83
+421,  centro ,Residencial,49.03,127.51,Medidor comunal,2023-11-23,0,Pagado,0.11
+422,Oeste,Residencial,24.42,64.05,Domiciliaria,2023-09-20,0,Pendiente,7.87
+423,Sur,Residencial,27.01,55.59,Domiciliaria,2023-03-12,0,Pagado,3.06
+424,Sur,Comercial,,81.93,Domiciliaria,2024-03-14,0,Pendiente,0.4
+425,Este,Residencial,36.06,81.8,Domiciliaria,2024-08-23,1,Vencido,5.88
+426,Sur,Residencial,36.87,67.72,Domiciliaria,2024-07-17,0,Pagado,3.98
+427,Norte,residencial ,31.39,57.57,Domiciliaria,2024-05-29,0,Pagado,9.74
+428,Centro,Residencial,13.57,40.23,No especificado,2023-01-16,0,Pendiente,5.44
+429,  centro ,Residencial,41.33,90.19,,2023-11-13,0,Pendiente,2.75
+430,Oeste,Residencial,13.54,34.19,Medidor comunal,2023-10-25,0,Pendiente,7.09
+431,Sur,Residencial,28.03,62.18,Domiciliaria,2024-07-08,0,Vencido,2.71
+432,Norte,Residencial,17.46,54.42,Industrial,2024-04-10,0,Vencido,9.04
+433,Oeste,Residencial,24.36,52.69,Domiciliaria,2023-01-22,0,PENDIENTE,3.75
+434,  centro ,Residencial,28.29,67.94,Medidor comunal,2023-05-04,0,Pagado,5.5
+435,Oeste,Comercial,28.21,85.25,Domiciliaria,2024-01-18,0,Pagado,0.51
+436,Oeste,residencial ,29.22,87.04,Medidor comunal,2023-03-06,1,Pagado,4.26
+437,Sur,Residencial,41.14,84.77,Domiciliaria,2024-01-15,0,Pagado,8.32
+438,Este,Residencial,,86.37,,2024-01-26,0,Pagado,8.06
+439,Oeste,Residencial,22.56,55.08,Industrial,2023-02-19,0,Pagado,2.24
+440,Norte,Residencial,34.64,85.77,Domiciliaria,2023-10-07,0,pagado,2.26
+441,Norte,Residencial,,73.3,Domiciliaria,2023-03-26,0,Pagado,8.17
+442,Centro,Industrial,12.72,24.33,No especificado,2023-05-17,1,Pagado,9.3
+443,Este,Residencial,30.97,87.31,Domiciliaria,2023-01-17,0,Pagado,0.95
+444,Este,Residencial,32.01,79.87,Industrial,2024-02-16,0,Pagado,4.5
+445,Centro,Residencial,22.02,53.1,,2023-03-19,0,Pagado,3.37
+446,Oeste,residencial ,38.76,,Domiciliaria,2023-08-18,0,Pagado,8.71
+447,Este,Residencial,23.5,67.49,Domiciliaria,2023-10-03,0,Pagado,0.84
+448,Norte,Residencial,26.26,53.11,Domiciliaria,2023-11-10,0,Pendiente,2.11
+449,Norte,Residencial,23.27,61.77,Medidor comunal,2024-08-13,0,Vencido,7.52
+450,Sur,Residencial,25.16,,Domiciliaria,2023-06-07,0,Vencido,0.51
+451,Este,Residencial,14.04,40.04,Domiciliaria,2023-08-26,0,Pendiente,4.93
+452,Oeste,Comercial,10.6,28.83,Domiciliaria,2023-07-15,0,Pagado,4.42
+453,Centro,Residencial,40.95,128.55,Domiciliaria,2023-09-29,0,Vencido,3.34
+454,Centro,Residencial,,31.35,,2024-04-10,0,Vencido,3.95
+455,Oeste,Residencial,15.09,28.37,No especificado,2024-03-06,0,Pagado,5.3
+456,Sur,residencial ,3.47,7.62,,2024-02-19,0,Pendiente,1.61
+457,Centro,Residencial,18.61,40.32,Medidor comunal,2024-05-09,0,Pagado,5.72
+458,Este,Residencial,11.77,25.26,,2023-12-30,0,Vencido,8.05
+459,Sur,Comercial,41.42,127.11,Domiciliaria,2023-01-11,0,Vencid0,7.6
+460,Este,Residencial,35.1,75.44,No especificado,2023-10-19,0,Pagado,1.54
+461,Norte,Residencial,18.12,39.51,Domiciliaria,2023-04-23,0,Vencido,1.49
+462,Sur,Residencial,47.52,136.06,Domiciliaria,2024-07-09,0,Pendiente,2.68
+463,Centro,Residencial,34.82,84.6,Industrial,2024-08-13,1,PENDIENTE,3.61
+464,Sur,Residencial,21.75,,Domiciliaria,2024-03-19,0,Pagado,4.08
+465,Sur,residencial ,0.01,0.02,Medidor comunal,2023-09-08,0,Vencido,6.8
+466,Sur,Residencial,47.91,118.94,Industrial,2023-10-26,0,Pagado,0.57
+467,Sur,Comercial,11.1,20.5,Domiciliaria,2023-05-16,0,Pagado,0.35
+468,Este,Comercial,8.55,,Industrial,2023-09-11,0,Pagado,3.92
+469,Norte,Residencial,35.23,108.12,Domiciliaria,2024-08-17,0,PENDIENTE,6.97
+470,Oeste,Residencial,49.4,98.55,Domiciliaria,2023-06-19,0,Vencido,1.93
+471,Sur,Residencial,38.84,,Medidor comunal,2024-07-03,0,Vencido,6.42
+472,Centro,Residencial,30.64,72.79,Industrial,2024-03-15,0,pagado,2.6
+473,Sur,Residencial,30.95,70.76,Domiciliaria,2024-08-06,0,Pagado,8.86
+474,Centro,Residencial,33.53,102.59,Domiciliaria,2023-12-04,0,Pagado,8.96
+475,Este,Residencial,32.59,59.66,Medidor comunal,2024-04-24,0,Pagado,2.97
+476,Centro,Residencial,27.81,75.9,Medidor comunal,2023-05-11,0,Pagado,2.3
+477,Oeste,Residencial,,,,2024-04-19,0,Pagado,4.11
+478,Norte,Residencial,24.37,62.98,Domiciliaria,2024-05-19,0,Pagado,2.41
+479,Centro,Residencial,17.46,54.33,Domiciliaria,2023-02-02,0,Pagado,6.72
+480,Centro,Residencial,22.19,41.57,,2023-10-26,0,Pagado,8.26
+481,Norte,Residencial,8.07,19.26,Medidor comunal,2024-03-16,0,Pagado,6.73
+482,Oeste,Residencial,,51.98,Domiciliaria,2024-04-28,0,Pagado,8.24
+483,Sur,Comercial,15.11,42.66,Domiciliaria,2023-09-06,1,PENDIENTE,3.97
+484,Centro,residencial ,13.96,44.31,No especificado,2024-03-27,0,Pendiente,1.56
+485,Norte,Residencial,26.8,57.87,Domiciliaria,2023-04-02,0,PENDIENTE,7.38
+486,Este,Residencial,38.92,105.7,No especificado,2024-07-07,0,Pagado,3.6
+487,Norte,Residencial,34.18,71.0,Medidor comunal,2023-10-30,0,Pagado,6.71
+488,Este,Residencial,9.29,,Medidor comunal,2023-03-27,0,Pendiente,2.71
+489,Oeste,Residencial,15.1,36.99,Domiciliaria,2023-03-01,0,Pagado,0.81
+490,Sur,Comercial,34.41,108.76,Domiciliaria,2023-02-04,0,Pagado,9.93
+491,Norte,Comercial,15.18,40.26,Medidor comunal,2024-01-07,0,Pagado,1.56
+492,Centro,Residencial,22.75,,Medidor comunal,2023-09-12,0,Pagado,9.88
+493,Oeste,Residencial,30.5,59.77,Medidor comunal,2024-04-24,0,Pagado,9.77
+494,Norte,Residencial,15.32,,Domiciliaria,2023-03-17,1,Pagado,7.94
+495,Centro,Residencial,26.05,55.11,Medidor comunal,2023-04-13,0,Pendiente,6.59
+496,Norte,Comercial,11.66,25.08,Medidor comunal,2023-02-27,0,Pagado,5.78
+497,Este,Residencial,18.99,56.8,Medidor comunal,2023-02-23,0,Pagado,8.66
+498,Norte,Residencial,,72.92,Medidor comunal,2023-12-02,1,Vencido,2.89
+499,Norte,Residencial,9.07,22.97,Medidor comunal,2023-03-05,0,Pagado,4.68
+500,  centro ,Residencial,,57.64,Medidor comunal,2023-08-03,0,Pagado,6.19
+362,Oeste,Residencial,36.73,76.53,Medidor comunal,2023-12-13,0,Vencido,4.84
+74,Sur,Industrial,43.12,117.57,Medidor comunal,2024-08-16,0,Pagado,8.45
+375,Norte,Residencial,24.53,57.6,Domiciliaria,2024-01-04,0,Pagado,6.71
+156,Norte,Residencial,19.45,49.97,,2024-05-13,0,Pagado,2.65
+105,Norte,Comercial,34.38,99.52,Domiciliaria,2023-12-27,0,Pendiente,5.97
+395,Centro,Comercial,24.28,60.64,Domiciliaria,2024-06-30,1,pagado,1.71
+378,Sur,Residencial,,21.96,Domiciliaria,2024-07-13,0,Pendiente,4.0
+125,Norte,Residencial,19.83,,Medidor comunal,2023-03-18,0,Pendiente,0.25
+69,Oeste,Residencial,,92.91,Domiciliaria,2023-10-08,0,Pendiente,3.75
+451,Este,Residencial,14.04,40.04,Domiciliaria,2023-08-26,0,Pendiente,4.93
